@@ -1,0 +1,14 @@
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\bin\Debug\net7.0\Exceptions101.exe
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\bin\Debug\net7.0\Exceptions101.deps.json
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\bin\Debug\net7.0\Exceptions101.runtimeconfig.json
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\bin\Debug\net7.0\Exceptions101.dll
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\bin\Debug\net7.0\Exceptions101.pdb
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.AssemblyInfoInputs.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.AssemblyInfo.cs
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.dll
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\refint\Exceptions101.dll
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.pdb
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\Exceptions101.genruntimeconfig.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\Exceptions101\obj\Debug\net7.0\ref\Exceptions101.dll
